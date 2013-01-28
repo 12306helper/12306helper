@@ -4,7 +4,7 @@
   xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
   <RDF:Description about="urn:mozilla:extension:l2306helper@163.com">
-    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBAI7QzYiB8xYe3nPzMZYdUnfzlHO61+XSNvG16hk7SAmMxMmamWq+1ZkF+cXbvBBsb3lhYX97C8EHegrhFKCzH7JD/vcvZIQCxk+3LLUi7mzr/404rLht7mzVZttchcrHoVgs4tHN3MLWiLTCiEBfZEubLNjPI5l6b4rvVk9PDIOO</em:signature>
+    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBAD1ox4aHnaYzPhsVsBSdiy7rZaNoycOEbg9cLnms+b88WXmp5IYPgjtdT54HxgOvtKKxcJVx9tOCU1BgDRhUtVi+gDCa94KvX6xMJZN6y1//tK1AcgCm5nJfBAJso4YFYXJhr8AHPZK5rFHTCoxQ6/0ARmfHGtBoBroG2ZiLlNyz</em:signature>
     <em:updates>
       <RDF:Seq>
         <RDF:li>
@@ -12,13 +12,13 @@
             <em:targetApplication>
               <RDF:Description>
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-                <em:maxVersion>22.0</em:maxVersion>
+                <em:maxVersion>19.*</em:maxVersion>
                 <em:minVersion>4.0</em:minVersion>
-                <em:updateHash>sha256:608525290b0ae1bfe506956f969ad721ead4f13bf6f83b24409092f4a017a0ae</em:updateHash>
-                <em:updateLink>http://12306helper.github.com/12306helper/12306helper-0.5.xpi</em:updateLink>
+                <em:updateHash>sha256:e8da10e046af38ae396352c289924fe726a00cef42d1d55e6783b8f6806c816d</em:updateHash>
+                <em:updateLink>http://12306helper.github.com/12306helper/l2306helper-4.5.3.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
-            <em:version>0.5</em:version>
+            <em:version>4.5.3</em:version>
           </RDF:Description>
         </RDF:li>
       </RDF:Seq>
